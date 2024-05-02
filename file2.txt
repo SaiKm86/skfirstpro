@@ -1,0 +1,2 @@
+this is second development
+trying to find out the git conflict option
