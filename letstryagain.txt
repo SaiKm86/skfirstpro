@@ -14,8 +14,3 @@ line 9
 line 10
 line 11
 line 12
-line 13
-
-
-=======
->>>>>>> d8e95c9 (updatedtestfilebydev1):letstryagain
