@@ -1,6 +1,1 @@
 i have added few changes in this branch also 
-not working 
-adding one more line in git
-still trying to check the conflict issue
-content added by dev 2
-this might resolve
