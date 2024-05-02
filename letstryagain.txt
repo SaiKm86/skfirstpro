@@ -4,6 +4,7 @@ line 2
 line 3
 
 
+<<<<<<< HEAD:letstryagain.txt
 line 5
 line 6
 line 7
@@ -16,3 +17,5 @@ line 12
 line 13
 
 
+=======
+>>>>>>> d8e95c9 (updatedtestfilebydev1):letstryagain
